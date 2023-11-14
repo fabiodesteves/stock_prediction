@@ -1,1 +1,2 @@
-# stock_prediction
+# Readme
+The goal with this project is to use machine learning models to attempt to predict which factors most influence the performance of a stock. Since the stock market is a highly complex system (and chaotic) by nature, I won't try to make regression predictions (such as individual returns for each stock), but rather try and predict which stocks can be classified as "Overperformers", i.e., which stocks are able to beat the historical market average, which is [around 10% for the past 50 years](https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp). This project is, therefore, a classification problem, not regression.
